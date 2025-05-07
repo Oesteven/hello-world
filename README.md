@@ -1,4 +1,4 @@
 # hello-world
-git add README.md
-git commit -m "第一次修改：添加自我介绍"
-git push origin main
+# 这是我的第一个GitHub项目！
+- 技能：正在学习Git魔法
+- 目标：成为代码大侠
